@@ -1,9 +1,9 @@
-
+import React from "react";
 const defaultData = {
   name: "Usman Hafeez",
   score: 75,
   cefr: "C2 Proficient",
-  date: "2 Sep 2025",
+  date: "17 Dec 2022",
   reading: {
     score: 73,
     cefr: "C2 Proficient",
@@ -523,7 +523,7 @@ export default function Certificate({ data = defaultData }) {
   >
     {/* Download PDF Button */}
     <a
-      href="https://certificates-eu-west-1.efset.org/v2/certificates/2idfsh/pdf?locale=en"
+      href="/my-certificate.pdf"
       target="_blank"
       rel="noreferrer"
       style={{
