@@ -1,4 +1,4 @@
-
+import React from "react";
 const defaultData = {
   name: "Usman Hafeez",
   score: 75,
