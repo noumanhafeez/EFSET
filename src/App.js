@@ -28,7 +28,7 @@ const defaultData = {
   },
 };
 
-export default function Certificate({ data = defaultData }) {
+export default function App({ data = defaultData }) {
   return (
     <div
       style={{
