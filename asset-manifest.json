@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EFSET/static/css/main.e6c13ad2.css",
+    "main.js": "/EFSET/static/js/main.f87bcce8.js",
+    "static/js/453.140b1c2e.chunk.js": "/EFSET/static/js/453.140b1c2e.chunk.js",
+    "index.html": "/EFSET/index.html",
+    "main.e6c13ad2.css.map": "/EFSET/static/css/main.e6c13ad2.css.map",
+    "main.f87bcce8.js.map": "/EFSET/static/js/main.f87bcce8.js.map",
+    "453.140b1c2e.chunk.js.map": "/EFSET/static/js/453.140b1c2e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f87bcce8.js"
+  ]
+}
