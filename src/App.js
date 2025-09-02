@@ -3,7 +3,7 @@ const defaultData = {
   name: "Usman Hafeez",
   score: 75,
   cefr: "C2 Proficient",
-  date: "17 Dec 2022",
+  date: "2 Sep 2025",
   reading: {
     score: 73,
     cefr: "C2 Proficient",
