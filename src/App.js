@@ -36,7 +36,7 @@ export default function Certificate({ data = defaultData }) {
         justifyContent: "center",
         background: "#f3f4f6",
         minHeight: "100vh",
-        padding: "40px",
+        padding: "39px",
       }}
     >
       <div
